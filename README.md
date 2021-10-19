@@ -1,11 +1,18 @@
 # DSA 60DAYS
 ### DAY 1
-##### Solved some basic program of DSA learning series on codechef  https://www.codechef.com/CCS2
-
-##### Studied time complexity(Asymtotic notations)
+ Solved some basic program of DSA learning series on codechef  https://www.codechef.com/CCS2
+ Studied time complexity(Asymtotic notations)
 
 ### DAY 2
-##### Pointers and arrays
+   Space complexity
+
+### DAY 3
+   Pointers and arrays
+
+### DAY 4
+   Implemented array as adt
+
+
        
 
   
