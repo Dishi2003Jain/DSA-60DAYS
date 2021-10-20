@@ -12,6 +12,9 @@
 ### DAY 4
    Implemented array as adt
 
+### DAY 5
+  Linear and binary search
+
 
        
 
