@@ -15,6 +15,9 @@
 ### DAY 5
   Linear and binary search
 
+### DAY 6
+  Divide and conquer
+
 
        
 
